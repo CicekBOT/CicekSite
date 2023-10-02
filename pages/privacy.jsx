@@ -2,20 +2,20 @@ export default function Privacy() {
 
     return (
         <div>
-            <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for Astra</h1>
+            <h1 className="font-semibold text-3xl text-white/75">CicekBOT'un Güvenlik Sözleşmesi</h1>
             <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
-        <p>⊳ To use the Astra bot, you must define the necessary permissions when adding it to your discord server. <a className="text-white">(READ MESSAGES, SEND MESSAGES, EMBED LINKS, ATTACH FILES, READ MESSAGE HISTORY, CONNECT, SPEAK, USE VOICE ACTIVITY, PRIORITY SPEAKER)</a></p>
+        <p>⊳ Astra botunu kullanmak için discord sunucunuza eklerken gerekli izinleri tanımlamalısınız. <a className="text-white">(MESAJ OKUMA, MESAJ GÖNDERME, BAĞLANTI EKLEME, DOSYA EKLEME, MESAJ GEÇMIŞINI OKUMA, BAĞLANMA, KONUŞMA, SES ETKINLIĞINI KULLANMA, ÖNCELIKLI HOPARLÖR)</a></p>
         <div className="py-3"></div>
-        <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bot when using certain commands from the bot commands.</p>
+        <p>⊳ Botdaki belirli özelliklere ulaşabilmek için <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bu linkten oy vermeniz lazım.</p>
         <div className="py-3"></div>
-        <p>⊳ Every user can use the astra bot however they want, as long as they do not intend to harm.</p>
+        <p>⊳ Her kullanıcı, zarar verme niyetinde olmadığı sürece astra botu istediği gibi kullanabilir.</p>
         <div className="py-3"></div>
-        <p>⊳ You cannot use certain commands at the same time while using Astra.</p>   
+        <p>⊳ Ciceği kullanırken aynı anda belirli komutları kullanamazsınız.</p>   
         <div className="py-3"></div>
-        <p>⊳ Astra bot does not save any data based on users.</p>
+        <p>⊳ CicekBOT herhangi bir kullanıcı verisi saklamaz.</p>
         <div className="py-3"></div>
-        <p>⊳ While using the bot, your user ID is saved and deleted in the system for 60 seconds for once.</p> 
+        <p>⊳ Botu kullanırken kullanıcı kimliğiniz bir defaya mahsus olmak üzere 60 saniye boyunca sisteme kaydedilir ve silinir.</p> 
     
         </div>
             </div>
