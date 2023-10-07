@@ -14,11 +14,11 @@ class MyDocument extends Document {
             content="Discord Sunucunu Güzelleştirmekmi İstiyorsun? İşte Karşında CicekBOT!"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
-          <meta name="twitter:creator" content="@MusicMaker" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
+          <meta name="twitter:site" content="@CicekBOT" />
+          <meta name="twitter:creator" content="@CicekBOT" />
+          <meta property="og:url" content="https://cicek.com.tr" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="CicekBOT" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -29,7 +29,7 @@ class MyDocument extends Document {
             content="Discord Sunucunu Güzelleştirmekmi İstiyorsun? İşte Karşında CicekBOT!"
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="CicekBOT" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
