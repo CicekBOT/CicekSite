@@ -30,15 +30,15 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
+<a href="https://top.gg/bot/1160230068614869083">
   <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
+<a href="https://top.gg/bot/1160230068614869083">
   <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
+<a href="https://top.gg/bot/1160230068614869083">
   <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
 </a>
                                 </div>
@@ -48,19 +48,19 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://bit.ly/3LYzaDe">
+                                <Link href="https://top.gg/bot/1160230068614869083">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Oy Ver
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/zt3QCaQFy4" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/pYMTBvsHHp" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Destek Sunucusu
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://bit.ly/3PHDjyC" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/oauth2/authorize?client_id=1160230068614869083&scope=bot&permissions=8" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Botu Davet Et
                                 </a>
                             </div>
