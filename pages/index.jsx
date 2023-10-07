@@ -86,11 +86,11 @@ Ciceğe Oy Ver</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://cdn.discordapp.com/attachments/1157693514705018925/1160236566216704020/Screenshot_25.png?ex=6533ed81&is=65217881&hm=b1be9e92d90dbbc291d41b121cc69885dcd75a2aaf5255aae696c4dc6221ebe2&"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Aralarında En İyisi</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Cicek Bot İle Kendini Bir Sonraki Seviyeye Taşımaya Ne Dersin?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1157693514705018925/1160236566216704020/Screenshot_25.png?ex=6533ed81&is=65217881&hm=b1be9e92d90dbbc291d41b121cc69885dcd75a2aaf5255aae696c4dc6221ebe2&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
